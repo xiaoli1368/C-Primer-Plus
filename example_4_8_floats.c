@@ -1,4 +1,5 @@
-// floats.c -- some floating-point combinations
+﻿// floats.c -- some floating-point combinations
+// 啊手动阀
 #include <stdio.h>
 
 int main(void)
