@@ -1,2 +1,3 @@
 # C_Primer_Plus
- Some learning notes
+ Some learning notes of 《C Primer Plus》
+
