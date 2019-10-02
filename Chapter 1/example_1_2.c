@@ -1,4 +1,4 @@
-/* 程序清单 1.2 C程序 P10*/
+/* 绋嬪簭娓呭崟 1.2 C绋嬪簭 P10*/
 
 #include <stdio.h>
 int main(void)

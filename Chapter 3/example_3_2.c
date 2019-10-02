@@ -1,4 +1,4 @@
-/*程序清单3.2 print1.c 程序 P45 */
+/*绋嬪簭娓呭崟3.2 print1.c 绋嬪簭 P45 */
 
 #include<stdio.h>
 int main(void) 

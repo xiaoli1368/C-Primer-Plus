@@ -1,5 +1,5 @@
-/*³ÌĞòÇåµ¥ 4.3 parise2.c ³ÌĞò*/
-// Èç¹û±àÒëÆ÷²»Ê¶±ğ%zd£¬³¢ÊÔ»»³É%u£¬»òÕß%lu
+/*ç¨‹åºæ¸…å• 4.3 parise2.c ç¨‹åº*/
+// å¦‚æœç¼–è¯‘å™¨ä¸è¯†åˆ«%zdï¼Œå°è¯•æ¢æˆ%uï¼Œæˆ–è€…%lu
 #include<stdio.h>
 #include<string.h>
 #define PRAISE "You are an extraordinary being."

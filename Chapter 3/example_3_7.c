@@ -1,4 +1,4 @@
-/*程序清单 3.7 showf_pt.c 程序*/
+/*绋嬪簭娓呭崟 3.7 showf_pt.c 绋嬪簭*/
 #include<stdio.h>
 int main(void)
 {

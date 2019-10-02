@@ -14,7 +14,7 @@ int main(int argc, char *argv)
 	printf("Gustav\nMahler\n");
 	printf("Gustav ");
 	printf("Mahler\n");
-
+	
 	system("pause");
 	return 0;
 }

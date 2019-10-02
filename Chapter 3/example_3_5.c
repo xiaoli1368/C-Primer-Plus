@@ -1,4 +1,4 @@
-/*程序清单 3.5 charcode.c 程序 P52*/
+/*绋嬪簭娓呭崟 3.5 charcode.c 绋嬪簭 P52*/
 #include<stdio.h>
 int main()
 {

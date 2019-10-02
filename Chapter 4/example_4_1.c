@@ -1,4 +1,4 @@
-/*程序清单 4.1 talkback.c 程序*/
+/*绋嬪簭娓呭崟 4.1 talkback.c 绋嬪簭*/
 #include<stdio.h>
 #include<string.h>
 #define DENSITY 62.4

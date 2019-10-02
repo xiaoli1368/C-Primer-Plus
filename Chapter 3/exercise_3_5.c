@@ -1,6 +1,6 @@
 /****************************************
  * CopyRight @ 2019-2029 
- * Func: print name
+ * Func: change years to seconds
  * Auth: xiaoli
  * Date: 2019/10/02
  ****************************************/

@@ -1,4 +1,4 @@
-/*程序清单 3.4 print2.c 程序 P49*/
+/*绋嬪簭娓呭崟 3.4 print2.c 绋嬪簭 P49*/
 #include<stdio.h>
 int main()
 {

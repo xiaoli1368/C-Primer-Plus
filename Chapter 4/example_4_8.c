@@ -1,5 +1,5 @@
-﻿// floats.c -- some floating-point combinations
-// 啊手动阀
+// floats.c -- some floating-point combinations
+// 
 #include <stdio.h>
 
 int main(void)
@@ -15,6 +15,6 @@ int main(void)
     printf("*%+4.2f*\n", RENT);
     printf("*%010.2f*\n", RENT);
     
-	system("pause");
+    system("pause");
     return 0;
 }

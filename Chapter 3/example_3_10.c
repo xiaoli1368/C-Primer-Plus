@@ -1,4 +1,4 @@
-/*程序清单 3.10 escape.c 程序*/
+/*绋嬪簭娓呭崟 3.10 escape.c 绋嬪簭*/
 #include<stdio.h>
 int main(void)
 {

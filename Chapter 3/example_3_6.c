@@ -1,4 +1,4 @@
-/*程序清单 3.6 altname.c 程序 P55*/
+/*绋嬪簭娓呭崟 3.6 altname.c 绋嬪簭 P55*/
 #include<stdio.h>
 #include<inttypes.h>
 int main(void)

@@ -1,4 +1,4 @@
-/*程序清单2.2 fathm_ft.c 程序 P29 */
+/*绋嬪簭娓呭崟2.2 fathm_ft.c 绋嬪簭 P29 */
 
 #include<stdio.h>
 int main(void)

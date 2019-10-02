@@ -1,4 +1,4 @@
-/*³ÌĞòÇåµ¥ 3.1 platinum.c ³ÌĞò P39*/
+/*ç¨‹åºæ¸…å• 3.1 platinum.c ç¨‹åº P39*/
 
 #include<stdio.h>
 void main(void)
@@ -10,7 +10,7 @@ void main(void)
 	printf("Let's check it out.\n");
 	printf("Please enter your weight in pounds: ");
 
-	/*»ñÈ¡ÓÃ»§µÄÊäÈë*/
+	/*è·å–ç”¨æˆ·çš„è¾“å…¥*/
 	scanf("%f", &weight);
 	value = 1700.0 * weight * 14.5833;
 

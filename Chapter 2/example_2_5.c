@@ -1,4 +1,4 @@
-/*程序清单 2.5 stillbad.c 程序 P33 */
+/*绋嬪簭娓呭崟 2.5 stillbad.c 绋嬪簭 P33 */
 
 #include<stdio.h>
 void main(void)

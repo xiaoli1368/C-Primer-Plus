@@ -1,6 +1,6 @@
 /*****************************************
  * CopyRight @ 2019-2029 
- * Func: Change [age] to [days]
+ * Func: print txt
  * Auth: xiaoli
  * Date: 2019/09/29
  ****************************************/
@@ -26,7 +26,7 @@ int main(int argc, char *argv)
 	printf("starting now:\n");
 	one_three();
 	printf("done!\n");
-
-    system("pause");
+	
+	system("pause");
 	return 0;
 }

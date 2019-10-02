@@ -1,6 +1,6 @@
 /*****************************************
  * CopyRight @ 2019-2029 
- * Func: Change [age] to [days]
+ * Func: use loop and print
  * Auth: xiaoli
  * Date: 2019/09/29
  ****************************************/
@@ -23,6 +23,6 @@ int main(int argc, char *argv)
 	first_print();
 	second_print();
 
-    system("pause");
+  system("pause");
 	return 0;
 }

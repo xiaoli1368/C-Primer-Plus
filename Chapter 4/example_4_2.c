@@ -1,4 +1,4 @@
-/*程序清单 4.2 praisel.c 程序*/
+/*绋嬪簭娓呭崟 4.2 praisel.c 绋嬪簭*/
 #include<stdio.h>
 #define PRAISE "You are an extraordinary being."
 int main(void)

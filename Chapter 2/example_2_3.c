@@ -1,4 +1,4 @@
-/*≥Ã–Ú«Âµ• 2.3 two_func.c P31 */
+/*Á®ãÂ∫èÊ∏ÖÂçï 2.3 two_func.c P31 */
 
 #include<stdio.h>
 void butler(void);

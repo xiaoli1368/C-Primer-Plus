@@ -1,4 +1,4 @@
-/*程序清单2.1 first.c 程序 P19 */
+/*绋嬪簭娓呭崟2.1 first.c 绋嬪簭 P19 */
 
 #include <stdio.h>
 int main(void)

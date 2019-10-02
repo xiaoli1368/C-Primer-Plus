@@ -122,7 +122,7 @@ int main(int argc, char *argv)
 			}
 		}
 	}
-
-    system("pause");
+	
+	system("pause");
 	return 0;
 }

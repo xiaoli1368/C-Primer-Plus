@@ -1,6 +1,6 @@
 /*****************************************
  * CopyRight @ 2019-2029 
- * Func: Change [age] to [days]
+ * Func: print number
  * Auth: xiaoli
  * Date: 2019/09/29
  ****************************************/
@@ -14,7 +14,7 @@ int main(int argc, char *argv)
 	printf("1 square of toes: %d\n", toes);
 	printf("2 bigger of toes: %d\n", toes * 2);
 	printf("2 square of toes: %d\n", toes * toes);
-
-    system("pause");
+	
+	system("pause");
 	return 0;
 }

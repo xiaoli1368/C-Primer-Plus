@@ -12,7 +12,7 @@ int main(int argc, char *argv)
 {
 	printf("My name is : [xiaoli].\n");
 	printf("My address is: [Beijing].\n");
-
-    system("pause");
+	
+	system("pause");
 	return 0;
 }
