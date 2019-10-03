@@ -1,7 +1,5 @@
 // floats.c -- some floating-point combinations
-// 
 #include <stdio.h>
-
 int main(void)
 {
     const double RENT = 3852.99;  // const-style constant
@@ -15,6 +13,5 @@ int main(void)
     printf("*%+4.2f*\n", RENT);
     printf("*%010.2f*\n", RENT);
     
-    system("pause");
     return 0;
 }
