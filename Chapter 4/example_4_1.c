@@ -9,7 +9,7 @@ int main()
 	char name[40];
 
 	printf("Hi! What's your first name?\n");
-	scanf("%s", &name);
+	scanf("%s", name);
 	printf("%s, what's your weight in pounds?\n", name);
 	scanf("%f", &weight);
 
